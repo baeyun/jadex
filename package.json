@@ -1,0 +1,11 @@
+{
+  "name": "jadex",
+  "version": "1.0.0",
+  "description": "The PUG of JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bukharim96 <bukharim96@gmail.com>",
+  "license": "MIT"
+}
